@@ -25,3 +25,14 @@ Frontend development projects built while following my learning roadmap.
 ## 🎯 Learning Goal
 
 Build real-world frontend projects and improve problem-solving skills through hands-on practice.
+
+## 🔗 Links SinglePageCV
+
+### Live Project 
+https://khourn-sothearith.github.io/CodeLab-FE/
+
+### Repository
+https://github.com/khourn-sothearith/CodeLab-FE
+
+### Roadmap.sh Project
+https://roadmap.sh/projects/single-page-cv

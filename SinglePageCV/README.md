@@ -5,7 +5,7 @@ This repository contains my practice projects for HTML, CSS, and JavaScript.
 ## Single Page CV Project
 
 Project URL:
-https://roadmap.sh/projects/SinglePageCV
+https://khourn-sothearith.github.io/CodeLab-FE/SinglePageCV/
 
 ### Technologies Used
 
